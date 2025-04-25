@@ -8,14 +8,14 @@ Through the analysis of advanced security concepts, students will learn how to d
 
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
 
-•	CS-30412: Analyze how advanced security concepts are applied to develop secure code
-•	CS-30413: Design and implement code that complies with software security testing protocols
-•	CS-40414: Write secure communications through the application of current encryption technologies and techniques
+*•	CS-30412: Analyze how advanced security concepts are applied to develop secure code
+*•	CS-30413: Design and implement code that complies with software security testing protocols
+*•	CS-40414: Write secure communications through the application of current encryption technologies and techniques
 
 <ins>**Questions:**<ins>
 
-•	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
-        o	Artemis Financial are a financial consulting company that helps their customers with creating a personalized financial plan. They were looking to modernize their infrastructure by trying to enhance and upgrade their security. Specifically, I needed to analyze their existing software for any vulnerabilities and add a checksum verification.
+*•	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+        *o	Artemis Financial are a financial consulting company that helps their customers with creating a personalized financial plan. They were looking to modernize their infrastructure by trying to enhance and upgrade their security. Specifically, I needed to analyze their existing software for any vulnerabilities and add a checksum verification.
 
 •	What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
       
