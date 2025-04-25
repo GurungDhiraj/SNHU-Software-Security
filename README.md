@@ -1,8 +1,11 @@
 # SNHU-Software-Security
 
 <ins>**Course Description:**<ins>
+
 Through the analysis of advanced security concepts, students will learn how to develop secure code that complies with security testing protocols. In addition to exploring and implementing security concepts through code, students will also learn why and how to apply encryption technologies and techniques to communicate securely.
+
 <ins>**Course Competencies:**<ins>
+
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
 
 •	CS-30412: Analyze how advanced security concepts are applied to develop secure code
