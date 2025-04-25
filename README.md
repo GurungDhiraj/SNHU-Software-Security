@@ -14,7 +14,7 @@ This course covers the following competencies, which represent the knowledge and
 
 <ins>**Questions:**<ins>
 
-*•	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+Markup : *•	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
         *o	Artemis Financial are a financial consulting company that helps their customers with creating a personalized financial plan. They were looking to modernize their infrastructure by trying to enhance and upgrade their security. Specifically, I needed to analyze their existing software for any vulnerabilities and add a checksum verification.
 
 •	What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
