@@ -7,10 +7,9 @@ Through the analysis of advanced security concepts, students will learn how to d
 <ins>**Course Competencies:**<ins>
 
 This course covers the following competencies, which represent the knowledge and skills relevant to your field:
-
-*•	CS-30412: Analyze how advanced security concepts are applied to develop secure code
-*•	CS-30413: Design and implement code that complies with software security testing protocols
-*•	CS-40414: Write secure communications through the application of current encryption technologies and techniques
+       •CS-30412: Analyze how advanced security concepts are applied to develop secure code
+       •CS-30413: Design and implement code that complies with software security testing protocols
+       •CS-40414: Write secure communications through the application of current encryption technologies and techniques
 
 <ins>**Questions:**<ins>
 
